@@ -14,8 +14,8 @@ div.img-para {
   display:flex;
  }
 img {
-  max-width: 20%;
-  max-height:15%;
+  max-width: 40%;
+  max-height:30%;
   
 }
 #firstParagraph {
@@ -42,3 +42,4 @@ li {
     margin-right: 30px;
 
   }
+
