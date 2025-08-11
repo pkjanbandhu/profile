@@ -9,7 +9,7 @@ div.body {
 }
 div.img-para {
   
-  align-items: top;
+  align-items: center;
   justify-content: center;
   display:flex;
  }
@@ -42,4 +42,5 @@ li {
     margin-right: 30px;
 
   }
+
 
